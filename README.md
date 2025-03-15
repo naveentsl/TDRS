@@ -1,2 +1,0 @@
-# TDRS
-JITSI-TDRS
